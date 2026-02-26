@@ -19,3 +19,4 @@ Interactive Slicers – Enables dynamic filtering by date and sales
 
 💡 Outcome
 This project demonstrates my ability to analyze business data, build interactive dashboards, and present insights clearly for data-driven decision-making.
+![Dashboard Screenshot](dashboard.png)
